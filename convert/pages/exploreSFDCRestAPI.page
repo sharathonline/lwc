@@ -1,3 +1,0 @@
-<apex:page controller="exploreSFDCRestAPI_Con" action="{!execute}">
-    
-</apex:page>
